@@ -1,7 +1,9 @@
-# PLEASE NOTE
+# PLEASE NOTE - DEPRECATED
 
-Genius Hub is now officially supported by **Home Assistant** (from v0.92), and this repo is currently not maintained.
+Genius Hub is now officially supported by **Home Assistant** (from v0.92), and this repo is currently not maintained. 
  - see: https://www.home-assistant.io/components/geniushub
+
+It will definitely not work with HA versions after 0.95.
 
 # Genius Hub Component (Platform) for Home Assistant
 
